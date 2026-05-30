@@ -1,1 +1,7 @@
-
+gradio
+transformers
+torch
+accelerate
+sentencepiece
+reportlab
+langdetect
